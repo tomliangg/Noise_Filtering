@@ -2,6 +2,9 @@
 <h3>This repo is created for documentation purpose. The repo contains my personal work toward the SFU CMPT353 (Computational Data Science) course. You may use my solution as a reference. The .zip archive contains the original exercise files. For practice purpose, you can download the .zip archive and start working from there.</h3>
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
+<br/>
+<p> The task of this exercise is to use LOESS Smoothing and Kalman Smoothing technique to filter the noise in CPU temerature data and GPS position tracking data. For LOESS Smoothing, you will get to determine the frac parameter value which can optimise the filtering result. For Kalman Smoothing, you will get to find out the ideal R (observation_covariance) and Q (transistion_convariance) values that can give the smoothiest results.
+<br/>
 <p>Below is the exercise description </p>
 <hr>
 
