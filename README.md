@@ -101,9 +101,3 @@ print('Filtered distance: %0.2f' % (distance(smoothed_points)))</pre>
 <ol><li>When smoothing the CPU temperature, do you think you got a better result with LOESS or Kalman smoothing? What differences did you notice?
 </li><li>In the GPX files, you might have also noticed other data about the observations: time stamp, course (heading in degrees from north, 0<span>&ndash;</span>360), speed (in m/s). How could those have been used to make a better prediction about the <span>&ldquo;</span>next<span>&rdquo;</span> latitude and longitude? [Aside: I tried, and it didn't help much. I think the values are calculated from the latitude/longitude by the app: they don't really add much new information.]
 </li></ol>
-<h2 id="h-submitting">Submitting</h2>
-<p>Submit your files through CourSys for <a href="/2018su-cmpt-353-d1/+e3/">Exercise 3</a>.</p></div>
-
-<div class="updateinfo">Updated Mon May 28 2018, 14:06 by ggbaker.
-
-</div>
