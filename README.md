@@ -3,7 +3,7 @@
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
 <br/>
-<p> The task of this exercise is to use LOESS Smoothing and Kalman Smoothing technique to filter the noise in CPU temerature data and GPS position tracking data. For LOESS Smoothing, you will get to determine the frac parameter value which can optimise the filtering result. For Kalman Smoothing, you will get to find out the ideal R (observation_covariance) and Q (transistion_convariance) values that can give the smoothest results.
+<p> The task of this exercise is to use LOESS Smoothing and Kalman Smoothing technique to filter the noise in CPU temerature data and GPS position tracking data. For LOESS Smoothing, you will get to determine the frac parameter value which can optimise the filtering result. For Kalman Smoothing, you will get to find out the ideal R (observation_covariance) and Q (transistion_convariance) values that can give the smoothest results.</p>
 <br/>
 <p>Below is the exercise description </p>
 <hr>
